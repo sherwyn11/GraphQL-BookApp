@@ -5,6 +5,7 @@ import AddBook from './components/AddBook';
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
 
+
 const client = new ApolloClient({
   uri: 'http://localhost:8000/graphql',
 });
@@ -14,7 +15,9 @@ class App extends Component {
     return (
         <ApolloProvider client={ client }>
             <div id="name">
-                <h1>Books</h1>
+                <h1>Books 4 you</h1>
+                <i>Powered by GraphQL, Node.js, MongoDB-Atlas & ReactJS</i>
+                <h4>Books in the Database</h4>
                 <BookList></BookList>
                 <br></br>
                 <AddBook></AddBook>
