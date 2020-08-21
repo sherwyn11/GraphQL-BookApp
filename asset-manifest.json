@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GraphQL-BookApp/static/css/main.33b467b0.chunk.css",
-    "main.js": "/GraphQL-BookApp/static/js/main.566bf6d8.chunk.js",
-    "main.js.map": "/GraphQL-BookApp/static/js/main.566bf6d8.chunk.js.map",
+    "main.js": "/GraphQL-BookApp/static/js/main.a1c619a9.chunk.js",
+    "main.js.map": "/GraphQL-BookApp/static/js/main.a1c619a9.chunk.js.map",
     "runtime-main.js": "/GraphQL-BookApp/static/js/runtime-main.4d0f0d6a.js",
     "runtime-main.js.map": "/GraphQL-BookApp/static/js/runtime-main.4d0f0d6a.js.map",
     "static/js/2.0febf64f.chunk.js": "/GraphQL-BookApp/static/js/2.0febf64f.chunk.js",
     "static/js/2.0febf64f.chunk.js.map": "/GraphQL-BookApp/static/js/2.0febf64f.chunk.js.map",
     "index.html": "/GraphQL-BookApp/index.html",
-    "precache-manifest.f0a4ef888530269c2b99215a396618e1.js": "/GraphQL-BookApp/precache-manifest.f0a4ef888530269c2b99215a396618e1.js",
+    "precache-manifest.9923ee11e85403349889d791789898b6.js": "/GraphQL-BookApp/precache-manifest.9923ee11e85403349889d791789898b6.js",
     "service-worker.js": "/GraphQL-BookApp/service-worker.js",
     "static/css/main.33b467b0.chunk.css.map": "/GraphQL-BookApp/static/css/main.33b467b0.chunk.css.map",
     "static/js/2.0febf64f.chunk.js.LICENSE.txt": "/GraphQL-BookApp/static/js/2.0febf64f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4d0f0d6a.js",
     "static/js/2.0febf64f.chunk.js",
     "static/css/main.33b467b0.chunk.css",
-    "static/js/main.566bf6d8.chunk.js"
+    "static/js/main.a1c619a9.chunk.js"
   ]
 }
