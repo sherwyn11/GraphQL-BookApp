@@ -77,7 +77,6 @@ const Mutation = new GraphQLObjectType({
                 age: { type: new GraphQLNonNull(GraphQLInt) }
             },
             resolve(parent, args) {
-                console.log(args)
                 let author = new Author({
                     name: args.name,
                     age: args.age
@@ -93,7 +92,6 @@ const Mutation = new GraphQLObjectType({
                 authorId: { type: new GraphQLNonNull(GraphQLID) }
             },
             resolve(parent, args) {
-                console.log(args)
                 let book = new Book({
                     name: args.name,
                     genre: args.genre,
