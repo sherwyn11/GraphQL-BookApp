@@ -8,7 +8,7 @@ import AddAuthor from './components/AddAuthor';
 
 
 const client = new ApolloClient({
-  uri: 'https://sherwyn11.github.io/GraphQL-BookApp/graphql',
+  uri: 'https://book-graphql-server.herokuapp.com/graphql',
 });
 
 class App extends Component {
