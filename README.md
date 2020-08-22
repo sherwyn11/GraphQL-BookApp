@@ -19,7 +19,7 @@ Add and view books by different authors.
 
 ## Try it out
 
-<a href="sherwyn11.github.io/GraphQL-BookApp">Click Here</a>
+<a href="https://sherwyn11.github.io/GraphQL-BookApp">Click Here</a>
 
 ## Licence
 
