@@ -1,4 +1,4 @@
-# GraphQL-BookApp
+# GraphQL-BookApp <img src="https://www.nicepng.com/png/detail/10-101646_borrow-library-books-book-stack-books-icon.png" height="40px" width="40px" /> 
 
 Add and view books by different authors.
 
