@@ -1,6 +1,6 @@
 # GraphQL-BookApp <img src="https://www.nicepng.com/png/detail/10-101646_borrow-library-books-book-stack-books-icon.png" height="40px" width="40px" /> 
 
-Add and view books by different authors.
+A website to <b>Add</b> and <b>View</b> books by different authors.
 
 ## Technologies Used
 
@@ -9,6 +9,7 @@ Add and view books by different authors.
   <li>Node.js</li>
   <li>MongoDB-Atlas</li>
   <li>ReactJS</li>
+  <li>Heroku</li>
 </ul> 
 
 ## About GraphQL
